@@ -8,3 +8,9 @@
 [2017-04-10 16:27:29,089] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
 [2017-04-10 16:27:29,139] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 6491
 [2017-04-10 16:27:29,139] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 6491
+[2017-08-10 12:12:10,141] [INFO] basehttp : "GET /index HTTP/1.1" 301 0
+[2017-08-10 12:12:10,141] [INFO] basehttp : "GET /index HTTP/1.1" 301 0
+[2017-08-10 12:12:10,320] [INFO] basehttp : "GET /index/ HTTP/1.1" 200 1471
+[2017-08-10 12:12:10,320] [INFO] basehttp : "GET /index/ HTTP/1.1" 200 1471
+[2017-08-10 12:12:10,567] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3478
+[2017-08-10 12:12:10,567] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3478

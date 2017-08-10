@@ -16,6 +16,7 @@ Python版本与依赖库：
   * Django1.10.3 :https://www.djangoproject.com/ (目前只在1.10.3版本下运行通过)
   * Requests : http://www.python-requests.org/en/master/ (运行/function_tests目录下的接口用例需要)
   * django-bootstrap3 : https://github.com/dyve/django-bootstrap3
+  * pymysql
 
 对应教材购买：
   https://item.jd.com/12164814.html
